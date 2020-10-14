@@ -1,0 +1,1 @@
+{"output": "mTk mPk tCl lCl", "A_s": 2.135e-09, "n_s": 0.9624, "h": 0.6711, "P_k_max_1/Mpc": 1000.0, "k_pivot": 0.05, "omega_b": 0.022068, "omega_cdm": 0.120925, "z_pk": 2, "non linear": "Halofit", "l_max_scalars": 15000, "lensing": "yes", "accurate_lensing": 1}
